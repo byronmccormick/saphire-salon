@@ -1,39 +1,29 @@
 
-A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
-and an assortment of pre-styled elements. So, pretty much what you were expecting
--- except, of course, for how it's put together, specifically:
+Welcome to the Saphire Salon Website project! This is a fully responsive website built using flexbox and Sass, with an assortment of pre-styled elements. The website features a modern, blocky design with a mobile-style menu that is easy to use on any device.
 
-- It uses flexbox, which eliminates all kinds of terrible hacks and clunky layout
-  stopgaps (like CSS grid systems).
+Technologies Used
+HTML5
+CSS3 (including flexbox)
+Sass
+JavaScript
+jQuery
+Features
+Fully responsive design
+Mobile-style menu
+Pre-styled elements for easy customization
+Uses flexbox for easy layout
+Sass mixins and functions for efficient styling
+Getting Started
+To get started with the Hair Salon Website project, simply clone the repository to your local machine and open the index.html file in your preferred web browser.
 
-- It uses Sass* a lot more intelligently, thanks in part to several new mixins
-  and functions I've been working on (as well as a few by @HugoGiraudel).
-
-  (* = still entirely optional if you prefer vanilla CSS :)
-
-- A ton of other stuff.
-
-In short, this is a culmination of several new things I'm working on/trying out,
-so please, let me know what you think :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
+Copy code
+git clone https://github.com/byronmccormick/sapgireSalon.git
 
 
-Credits:
+Credits
+Demo Images: Unsplash (unsplash.com)
+Icons: Font Awesome (fontawesome.io)
+jQuery (jquery.com)
 
-	Demo Images:
-		Unsplash (unsplash.com)
 
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Thank you for checking out the Saphire Salon project!
