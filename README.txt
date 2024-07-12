@@ -17,7 +17,7 @@ Getting Started
 To get started with the Hair Salon Website project, simply clone the repository to your local machine and open the index.html file in your preferred web browser.
 
 Copy code
-git clone https://github.com/byronmccormick/sapgireSalon.git
+git clone https://github.com/byronmccormick/saphire-alon.git
 
 
 Credits
